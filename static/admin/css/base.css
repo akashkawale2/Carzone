@@ -556,7 +556,7 @@ input[type=button][disabled].default {
     font-weight: 400;
     font-size: 0.8125rem;
     text-align: left;
-    background: var(--primary);
+    
     color: var(--header-link-color);
 }
 
@@ -670,7 +670,6 @@ td ul.errorlist + input, td ul.errorlist + select, td ul.errorlist + textarea {
 /* BREADCRUMBS */
 
 div.breadcrumbs {
-    background: var(--breadcrumbs-bg);
     padding: 10px 40px;
     border: none;
     color: var(--breadcrumbs-fg);
