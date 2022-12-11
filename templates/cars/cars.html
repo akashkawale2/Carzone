@@ -1,5 +1,5 @@
-{% extends 'base.html' %}
-
+{% extends 'basee.html' %}
+{% block title %}| Cars Inventory {% endblock title %}
 {% block content %}
 {% load humanize %}
 <!-- Sub banner start -->
@@ -30,9 +30,9 @@
                         <div class="car-box-3">
                             <div class="car-thumbnail">
                                 <a href="{% url 'car_detail' car.id %}" class="car-img">
-                                    <div class="tag">For Rent</div>
+                                    <div class="tag">For Sale</div>
                                     <div class="price-box">
-                                        <span>Rs {{car.price | intcomma}}</span>
+                                        <span>Rs {{car.price | intword}}</span>
                                     </div>
                                     <img class="d-block w-100" src="{{car.car_photo.url}}" alt="car" style="min-height: 262px;  max-height:262px;">
                                 </a>

@@ -1,0 +1,1423 @@
+[
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "Ferrari 488 GTB",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "color": "White",
+        "model": "488 GTB",
+        "Year": 2017,
+        "condition": "Used",
+        "price": 7995000,
+        "description": "<p>The&nbsp;<strong>Ferrari 488</strong>&nbsp;(Type F142M) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a>&nbsp;produced by the Italian automobile manufacturer&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre&nbsp;<a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming&nbsp;<em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a>&nbsp;announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a>&nbsp;The 488 was succeeded by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ferrari_F8_Tributo\" title=\"Ferrari F8 Tributo\">F8 Tributo</a>&nbsp;in February 2019.</p>",
+        "car_photo": "photos/2022/10/04/1902536891.jpg",
+        "car_photo_1": "photos/2022/10/04/1902536917.jpg",
+        "car_photo_2": "photos/2022/10/04/1902537043.jpg",
+        "car_photo_3": "photos/2022/10/04/1902537077.jpg",
+        "car_photo_4": "photos/2022/10/04/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Power Steering,Auto Start/Stop",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 5000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0AB2E81EK178847",
+        "mileage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-04T22:23:13Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "Ford Edge",
+        "state": "Kerala",
+        "city": "Kochi",
+        "color": "Black",
+        "model": "Edge",
+        "Year": 2017,
+        "condition": "Used",
+        "price": 2500000,
+        "description": "<p>The&nbsp;<strong>Ford Edge</strong>&nbsp;is a range of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a>&nbsp;manufactured by the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a>&nbsp;marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a>&nbsp;and the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a>&nbsp;within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a>&nbsp;(since 2019, the Lincoln Nautilus); the first generation was also produced as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda_CX-9\" title=\"Mazda CX-9\">Mazda CX-9</a>. The second generation is also marketed by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>\r\n\r\n<p>All production of the Ford Edge is sourced from&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company_of_Canada\" title=\"Ford Motor Company of Canada\">Ford of Canada</a>&nbsp;at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Oakville_Assembly\" title=\"Oakville Assembly\">Oakville Assembly</a>&nbsp;(<a href=\"https://en.wikipedia.org/wiki/Oakville,_Ontario\" title=\"Oakville, Ontario\">Oakville, Ontario</a>) alongside the Nautilus.</p>",
+        "car_photo": "photos/2022/10/05/1901478607.jpg",
+        "car_photo_1": "photos/2022/10/05/1901478618.jpg",
+        "car_photo_2": "photos/2022/10/05/1901478646.jpg",
+        "car_photo_3": "photos/2022/10/05/1901478672.jpg",
+        "car_photo_4": "photos/2022/10/05/1901478687.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,ParkAssist,Power Steering",
+        "body_style": "SUV",
+        "engine": "3496 cc",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 27000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "TIL1901478672",
+        "mileage": 15,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-05T10:23:06Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "Audi A3",
+        "state": "Gujarat",
+        "city": "Ahmedabad",
+        "color": "Black",
+        "model": "A3 Dynamic",
+        "Year": 2020,
+        "condition": "Mint & Used",
+        "price": 2500000,
+        "description": "<p>A well maintained car of 2020 with lifetime tax and automatic transmission and petrol variant with running upto 44763km</p>\r\n\r\n<p>ADDITIONAL VEHICLE INFORMATION:</p>\r\n\r\n<p>ABS: Yes</p>\r\n\r\n<p>Accidental: No</p>\r\n\r\n<p>Adjustable External Mirror: Power</p>\r\n\r\n<p>Adjustable Steering: Yes</p>\r\n\r\n<p>Air Conditioning: Automatic Climate Control</p>\r\n\r\n<p>Number of Airbags: 6 airbags</p>\r\n\r\n<p>Alloy Wheels: Yes</p>\r\n\r\n<p>Anti Theft Device: Yes</p>\r\n\r\n<p>Aux Compatibility: Yes</p>\r\n\r\n<p>Battery Condition: New</p>\r\n\r\n<p>Bluetooth: Yes</p>\r\n\r\n<p>Color: Red</p>\r\n\r\n<p>Cruise Control: Yes</p>\r\n\r\n<p>Engine Capacity/Displacement (in Cc): 1395</p>\r\n\r\n<p>Insurance Type: Comprehensive</p>\r\n\r\n<p>Lock System: Remote Controlled Central</p>\r\n\r\n<p>Make Month: March</p>\r\n\r\n<p>Navigation System: Yes</p>\r\n\r\n<p>Parking Sensors: Yes</p>\r\n\r\n<p>Power steering: Yes</p>\r\n\r\n<p>Power Windows: Front &amp; rear</p>\r\n\r\n<p>AM/FM Radio: Yes</p>\r\n\r\n<p>Rear Parking Camera: Yes</p>\r\n\r\n<p>Registration Place: KA</p>\r\n\r\n<p>Exchange: Yes</p>\r\n\r\n<p>Finance: Yes</p>\r\n\r\n<p>Sunroof: Yes</p>\r\n\r\n<p>Tyre Condition: New</p>\r\n\r\n<p>USB Compatibility: Yes</p>",
+        "car_photo": "photos/2022/10/09/front-left-side-47.jpg",
+        "car_photo_1": "photos/2022/10/09/2021-audi-a3-sedan.jpeg",
+        "car_photo_2": "photos/2022/10/09/Audi-A3_Sedan-2021-1600-06.jpeg",
+        "car_photo_3": "photos/2022/10/09/A202481_small.jpeg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Air Conditioning,Auto Start/Stop",
+        "body_style": "Sedan",
+        "engine": "1395cc",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 44763,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "ABD8732657832",
+        "mileage": 11,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-10-09T16:06:53Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "Jaguar XE",
+        "state": "Tamil Nadu",
+        "city": "Chennai",
+        "color": "Brown",
+        "model": "XE",
+        "Year": 2017,
+        "condition": "Used",
+        "price": 2550000,
+        "description": "<p>ADDITIONAL VEHICLE INFORMATION:</p>\r\n\r\n<p>ABS: Yes</p>\r\n\r\n<p>Accidental: No</p>\r\n\r\n<p>Adjustable External Mirror: Power</p>\r\n\r\n<p>Adjustable Steering: Yes</p>\r\n\r\n<p>Air Conditioning: Automatic Climate Control</p>\r\n\r\n<p>Number of Airbags: 6 airbags</p>\r\n\r\n<p>Alloy Wheels: Yes</p>\r\n\r\n<p>Anti Theft Device: Yes</p>\r\n\r\n<p>Aux Compatibility: Yes</p>\r\n\r\n<p>Battery Condition: New</p>\r\n\r\n<p>Bluetooth: Yes</p>\r\n\r\n<p>Vehicle Certified: Yes</p>\r\n\r\n<p>Color: Bordeaux/Maroon</p>\r\n\r\n<p>Cruise Control: Yes</p>\r\n\r\n<p>Insurance Type: No Insurance</p>\r\n\r\n<p>Lock System: Remote Controlled Central</p>\r\n\r\n<p>Make Month: February</p>\r\n\r\n<p>Navigation System: Yes</p>\r\n\r\n<p>Parking Sensors: Yes</p>\r\n\r\n<p>Power steering: Yes</p>\r\n\r\n<p>Power Windows: Front &amp; rear</p>\r\n\r\n<p>AM/FM Radio: Yes</p>\r\n\r\n<p>Rear Parking Camera: Yes</p>\r\n\r\n<p>Registration Place: MH</p>\r\n\r\n<p>Exchange: Yes</p>\r\n\r\n<p>Finance: Yes</p>\r\n\r\n<p>Service History: Available</p>\r\n\r\n<p>Sunroof: Yes</p>\r\n\r\n<p>Tyre Condition: New</p>\r\n\r\n<p>USB Compatibility: Yes</p>",
+        "car_photo": "photos/2022/10/09/image_2.jpg",
+        "car_photo_1": "photos/2022/10/09/image_1.jpg",
+        "car_photo_2": "photos/2022/10/09/image_3.jpg",
+        "car_photo_3": "photos/2022/10/09/image_4.jpg",
+        "car_photo_4": "photos/2022/10/09/image.jpg",
+        "features": "Cruise Control,Airbags,Air Conditioning,Seat Heating,ParkAssist,Power Steering",
+        "body_style": "Sedan",
+        "engine": "1995cc",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 42000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "MSDW984723598",
+        "mileage": 12,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-10-09T16:17:20Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 5,
+    "fields": {
+        "car_title": "BMW 220i",
+        "state": "Madhya Pradesh",
+        "city": "Bhopal",
+        "color": "Blue",
+        "model": "220i",
+        "Year": 2021,
+        "condition": "used",
+        "price": 3750000,
+        "description": "<p>The 2 Series uses the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Front-wheel_drive\" title=\"Front-wheel drive\">front-wheel drive</a>-based&nbsp;<a href=\"https://en.wikipedia.org/wiki/BMW_UKL2_platform\" title=\"BMW UKL2 platform\">UKL2 architecture</a>&nbsp;and uses a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Multi-link_suspension\" title=\"Multi-link suspension\">multi-link</a>&nbsp;rear suspension system.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-6\">[6]</a>&nbsp;As the result, despite its similar name, it is mechanically unrelated to the&nbsp;<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_(F22)\" title=\"BMW 2 Series (F22)\">F22 2 Series</a>&nbsp;coup&eacute; and convertible. Compared to the F22 2 Series, the F44 has 33&nbsp;mm (1.3&nbsp;in) more knee room, 14&nbsp;mm (0.6&nbsp;in) more headroom, and a 40 litres (1.4&nbsp;cu&nbsp;ft) larger&nbsp;<a href=\"https://en.wikipedia.org/wiki/Trunk_(car)\" title=\"Trunk (car)\">boot</a>&nbsp;capacity at 430 litres (15&nbsp;cu&nbsp;ft).<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-7\">[7]</a>&nbsp;It shares the same front hood, fender panel, dashboard and suspension as the&nbsp;<a href=\"https://en.wikipedia.org/wiki/BMW_1_Series_(F40)\" title=\"BMW 1 Series (F40)\">F40 1 Series</a>.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-8\">[8]</a><a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-9\">[9]</a></p>\r\n\r\n<p>All petrol and diesel engines are installed with particulate filters and meet the&nbsp;<a href=\"https://en.wikipedia.org/wiki/European_emission_standards\" title=\"European emission standards\">Euro 6d-TEMP emissions standard</a>.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-10\">[10]</a>&nbsp;Diesel engines also have&nbsp;<a href=\"https://en.wikipedia.org/wiki/Diesel_exhaust_fluid\" title=\"Diesel exhaust fluid\">AdBlue</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Selective_catalytic_reduction\" title=\"Selective catalytic reduction\">selective catalytic reduction</a>.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-11\">[11]</a></p>\r\n\r\n<p>218i models are available with a 6-speed&nbsp;<a href=\"https://en.wikipedia.org/wiki/Manual_transmission\" title=\"Manual transmission\">manual transmission</a>&nbsp;or a 7-speed&nbsp;<a href=\"https://en.wikipedia.org/wiki/Dual-clutch_transmission\" title=\"Dual-clutch transmission\">dual-clutch transmission</a>.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-12\">[12]</a>&nbsp;228i xDrive, M235i xDrive, and 220d models are only available with an 8-speed&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automatic_transmission\" title=\"Automatic transmission\">automatic transmission</a>.<a href=\"https://en.wikipedia.org/wiki/BMW_2_Series_Gran_Coup%C3%A9#cite_note-13\">[13]</a>&nbsp;220i models are only available with a 7-speed&nbsp;<a href=\"https://en.wikipedia.org/wiki/Dual-clutch_transmission\" title=\"Dual-clutch transmission\">dual-clutch transmission</a>.</p>",
+        "car_photo": "photos/2022/10/10/bmw220iklicon.jpeg",
+        "car_photo_1": "photos/2022/10/10/bmw5bmwklblue220i.jpeg",
+        "car_photo_2": "photos/2022/10/10/bmw4bmwklblue220i.jpeg",
+        "car_photo_3": "photos/2022/10/10/bmw3bmwklblue220i.jpeg",
+        "car_photo_4": "photos/2022/10/10/blue220iklbmwklblue220i.jpeg",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Direct Fuel Injection,Auto Start/Stop",
+        "body_style": "Coupe Shape",
+        "engine": "2200",
+        "transmission": "Automatic",
+        "interior": "Biege",
+        "miles": 9000,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "BHDG832765327",
+        "mileage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-10-10T19:03:05Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 6,
+    "fields": {
+        "car_title": "Jaguar F-Pace",
+        "state": "West Bengal",
+        "city": "Kolkata",
+        "color": "Black",
+        "model": "F-pace",
+        "Year": 2017,
+        "condition": "Used",
+        "price": 2540000,
+        "description": "<p>The&nbsp;<strong>Jaguar F-Pace</strong>&nbsp;(X761) is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_executive_car\" title=\"Compact executive car\">compact luxury</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Crossover_SUV\" title=\"Crossover SUV\">crossover SUV</a>&nbsp;made by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automaker\" title=\"Automaker\">car manufacturer</a>, under their&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Cars\" title=\"Jaguar Cars\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/North_American_International_Auto_Show#2015\" title=\"North American International Auto Show\">2015 North American International Auto Show</a>&nbsp;in Detroit, with sales commencing in 2016 following an unveiling at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/International_Motor_Show_Germany#2015\" title=\"International Motor Show Germany\">International Motor Show Germany</a>&nbsp;in Frankfurt in September 2015.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a>&nbsp;The design of the F-Pace is based on the 2013&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a>&nbsp;concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a>&nbsp;The 2017 Jaguar F-PACE has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a></p>\r\n\r\n<p>The F-Pace is built at&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>&#39;s&nbsp;<a href=\"https://en.wikipedia.org/wiki/Solihull_plant\" title=\"Solihull plant\">Solihull plant</a>&nbsp;along with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Range_Rover_Velar\" title=\"Range Rover Velar\">Range Rover Velar</a>&nbsp;and employs an additional 1,300 workers.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a></p>",
+        "car_photo": "photos/2022/10/10/1902932542.jpg",
+        "car_photo_1": "photos/2022/10/10/1902932514.jpg",
+        "car_photo_2": "photos/2022/10/10/1902932503.jpg",
+        "car_photo_3": "photos/2022/10/10/1902932528.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Airbags,Air Conditioning,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "1500",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 54000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "JHFD3286732",
+        "mileage": 16,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2022-10-10T19:28:15Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 7,
+    "fields": {
+        "car_title": "Ford Endeavour",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "color": "RED",
+        "model": "Titanium 3x2",
+        "Year": 2021,
+        "condition": "Mint",
+        "price": 3500000,
+        "description": "<p>The&nbsp;<strong>Ford Everest</strong>&nbsp;is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mid-size_SUV\" title=\"Mid-size SUV\">mid-size SUV</a>&nbsp;produced by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>&nbsp;since 2003. Developed and destined mainly for the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Asia-Pacific\" title=\"Asia-Pacific\">Asia-Pacific</a>&nbsp;region with production centered in Thailand, the first-generation Everest is based on the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mazda\" title=\"Mazda\">Mazda</a>-based&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(international)\" title=\"Ford Ranger (international)\">Ford Ranger</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pickup_truck\" title=\"Pickup truck\">pickup truck</a>, while the following generations is based on the globally-marketed&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(T6)\" title=\"Ford Ranger (T6)\">T6 Ranger</a>.&nbsp;</p>\r\n\r\n<p>It is known as the&nbsp;<strong>Ford Endeavour</strong>&nbsp;in the Indian market to avoid legal issues due to the existence of a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Everest_Spices\" title=\"Everest Spices\">spice-making brand with the same name</a>&nbsp;in the country.</p>",
+        "car_photo": "photos/2022/12/11/Screenshot_2022-12-11_at_7.52.46_PM.png",
+        "car_photo_1": "photos/2022/12/11/Screenshot_2022-12-11_at_7.53.03_PM.png",
+        "car_photo_2": "photos/2022/12/11/Screenshot_2022-12-11_at_7.53.46_PM.png",
+        "car_photo_3": "photos/2022/12/11/Screenshot_2022-12-11_at_7.54.00_PM.png",
+        "car_photo_4": "photos/2022/12/11/Screenshot_2022-12-11_at_7.54.15_PM.png",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Power Steering,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "3200",
+        "transmission": "Manual",
+        "interior": "Black",
+        "miles": 21000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "DXA784654",
+        "mileage": 11,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-12-11T14:49:08Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 8,
+    "fields": {
+        "car_title": "Mercedes-Benz",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "color": "Red",
+        "model": "CLA",
+        "Year": 2018,
+        "condition": "Used",
+        "price": 2850000,
+        "description": "<p>The&nbsp;<strong>Mercedes-Benz CLA</strong>&nbsp;class is a series of&nbsp;<a href=\"https://en.wikipedia.org/wiki/Luxury_vehicle#Premium_compact\" title=\"Luxury vehicle\">luxury compact executive cars</a>&nbsp;manufactured by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz\" title=\"Mercedes-Benz\">Mercedes-Benz</a>&nbsp;since 2013. The first generation was a four-door&nbsp;<a href=\"https://en.wikipedia.org/wiki/Sedan_(automobile)\" title=\"Sedan (automobile)\">sedan</a>&nbsp;based on the platform of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class#W176\" title=\"Mercedes-Benz A-Class\">W176 A-Class</a>&nbsp;and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_B-Class#Second_generation_(W246;_2011%E2%80%93present)\" title=\"Mercedes-Benz B-Class\">W246 B-Class</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_car\" title=\"Compact car\">compact cars</a>, marketed as a four-door&nbsp;<a href=\"https://en.wikipedia.org/wiki/Coup%C3%A9\" title=\"Coupé\">coup&eacute;</a>.<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-1\">[1]</a>&nbsp;In 2015, Mercedes-Benz expanded the CLA family to include the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Shooting-brake\" title=\"Shooting-brake\">Shooting Brake</a>, a station wagon configuration.<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-SB-2\">[2]</a>&nbsp;As the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_A-Class_(W177)\" title=\"Mercedes-Benz A-Class (W177)\">V177 A-Class</a>&nbsp;sedan took its place as the budget-conscious sedan, the second generation got longer and wider than the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class_(W205)\" title=\"Mercedes-Benz C-Class (W205)\">W205 C-Class</a>.</p>\r\n\r\n<p>The CLA is Mercedes-Benz&#39;s first front-wheel drive vehicle offered in the North American market. The CLA range is positioned above the A-Class and it is nearly on the level of the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_C-Class\" title=\"Mercedes-Benz C-Class\">C-Class</a>&nbsp;in the Mercedes model range, and models tend to be less practical than the A-Class it is based on.</p>\r\n\r\n<p>The CLA first went on sale in Europe in April 2013, and was subsequently introduced in the United States in September 2013.<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-100.000-5\">[5]</a>&nbsp;Its largest markets are Western Europe and the United States.<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-100.000-5\">[5]</a>&nbsp;Global cumulative CLA sales reached 100,000 during its first year,<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-100.000-5\">[5]</a>&nbsp;cited as &quot;our best launch in 20 years&quot; by Mercedes-Benz.<a href=\"https://en.wikipedia.org/wiki/Mercedes-Benz_CLA#cite_note-6\">[6]</a>&nbsp;Worldwide, Mercedes-Benz sold about 750,000 units of the first generation.</p>",
+        "car_photo": "photos/2022/12/11/Screenshot_2022-12-11_at_8.10.04_PM.png",
+        "car_photo_1": "photos/2022/12/11/Screenshot_2022-12-11_at_8.10.25_PM.png",
+        "car_photo_2": "photos/2022/12/11/Screenshot_2022-12-11_at_8.11.10_PM.png",
+        "car_photo_3": "photos/2022/12/11/Screenshot_2022-12-11_at_8.10.58_PM.png",
+        "car_photo_4": "photos/2022/12/11/Screenshot_2022-12-11_at_8.11.26_PM.png",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "Sedan",
+        "engine": "2800",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 32000,
+        "doors": "4",
+        "passengers": 4,
+        "vin_no": "THS98484",
+        "mileage": 15,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-12-11T14:56:14Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 9,
+    "fields": {
+        "car_title": "Jeep Compass",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "color": "Black",
+        "model": "S(o) 4x4",
+        "Year": 2022,
+        "condition": "MINT",
+        "price": 2945000,
+        "description": "<p>The&nbsp;<strong>Jeep Compass</strong>&nbsp;is a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Compact_crossover_SUV\" title=\"Compact crossover SUV\">compact crossover SUV</a><a href=\"https://en.wikipedia.org/wiki/Jeep_Compass#cite_note-4\">[3]</a><a href=\"https://en.wikipedia.org/wiki/Jeep_Compass#cite_note-5\">[4]</a>&nbsp;introduced for the 2007&nbsp;<a href=\"https://en.wikipedia.org/wiki/Model_year\" title=\"Model year\">model year</a>,<a href=\"https://en.wikipedia.org/wiki/Jeep_Compass#cite_note-6\">[5]</a>&nbsp;and is currently in its second generation. The first generation Compass and&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeep_Patriot\" title=\"Jeep Patriot\">Patriot</a>, its rebadged variant, were among&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeep\" title=\"Jeep\">Jeep</a>&#39;s first crossover SUVs. The second-generation Compass debuted in September 2016 in&nbsp;<a href=\"https://en.wikipedia.org/wiki/Brazil\" title=\"Brazil\">Brazil</a>&nbsp;and at the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Los_Angeles_International_Auto_Show#2016\" title=\"Los Angeles International Auto Show\">Los Angeles International Auto Show</a>&nbsp;in November 2016, sharing a modified platform with the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeep_Renegade\" title=\"Jeep Renegade\">Renegade</a>. It is positioned between the smaller Renegade and the larger&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeep_Cherokee_(KL)\" title=\"Jeep Cherokee (KL)\">Cherokee</a>&nbsp;globally or the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Jeep_Commander_(2022)\" title=\"Jeep Commander (2022)\">Commander</a>&nbsp;in South America.</p>\r\n\r\n<h3>Facelift</h3>\r\n\r\n<p>In 2020, a facelift for the model was first launched in China, with slight visual changes to the exterior of the vehicle, and a completely redesigned interior.<a href=\"https://en.wikipedia.org/wiki/Jeep_Compass#cite_note-34\">[33]</a>&nbsp;In January 2021, the Compass facelift was released in India. It gets a revised front profile, a larger grille, a new front bumper with a larger air dam, slimmer headlights with Integrated LED DRLs, LED fog lights, and new alloy wheels.</p>\r\n\r\n<p>The 2022 US model includes&nbsp;<a href=\"https://en.wikipedia.org/wiki/Over-the-air_programming\" title=\"Over-the-air programming\">over-the-air</a>&nbsp;updates and includes collision warning with&nbsp;<a href=\"https://en.wikipedia.org/wiki/Collision_avoidance_system\" title=\"Collision avoidance system\">automatic braking</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Lane_departure_warning_system#Lane_keeping_and_next_technologies\" title=\"Lane departure warning system\">lane-keep assist</a>, pedestrian/<a href=\"https://en.wikipedia.org/wiki/Cycle_detection\" title=\"Cycle detection\">cycle detection</a>, active lane management,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Blind-spot_monitor\" title=\"Blind-spot monitor\">blind-spot monitor</a>, and rear cross-traffic alert. It also includes a semi-autonomous&nbsp;<a href=\"https://en.wikipedia.org/wiki/Advanced_driver-assistance_systems\" title=\"Advanced driver-assistance systems\">assist system</a>&nbsp;called Highway Assist that allows for hand-on-wheel and eyes-on-road&nbsp;<a href=\"https://en.wikipedia.org/wiki/Automated_driving\" title=\"Automated driving\">automated driving</a>.<a href=\"https://en.wikipedia.org/wiki/Jeep_Compass#cite_note-35\">[34]</a></p>\r\n\r\n<p>The 2022 Compass lineup consists of existing Sport, Latitude, Trailhawk, Limited, and High Altitude models, although a new Latitude Lux model, slotting between the mid-range Latitude and luxury-oriented Limited trims, becomes available. A limited-edition (RED) Edition model is also available, based on the Limited trim. The sole engine remains the naturally-aspirated 2.4-liter&nbsp;<a href=\"https://en.wikipedia.org/wiki/World_Gasoline_Engine#Tigershark\" title=\"World Gasoline Engine\">Tigershark</a>&nbsp;four-cylinder gasoline engine producing 177 horsepower and 172 lb. ft. of torque (down 3 horsepower and 3 lb. ft. of torque, from 180 and 175, respectively). All four-wheel drive models receive the nine-speed 948TE automatic ZF 9HP transmission as standard equipment, while front wheel drive models receive the six-speed Aisin automatic transmission as standard. Sport and Latitude models are available with front-wheel-drive with optional all-wheel-drive, while all other models now include standard all-wheel-drive.</p>",
+        "car_photo": "photos/2022/12/11/Screenshot_2022-12-11_at_8.27.44_PM.png",
+        "car_photo_1": "photos/2022/12/11/Screenshot_2022-12-11_at_8.27.59_PM.png",
+        "car_photo_2": "photos/2022/12/11/Screenshot_2022-12-11_at_8.28.10_PM.png",
+        "car_photo_3": "photos/2022/12/11/Screenshot_2022-12-11_at_8.28.21_PM.png",
+        "car_photo_4": "photos/2022/12/11/Screenshot_2022-12-11_at_8.28.21_PM_PRTCqoH.png",
+        "features": "Cruise Control,Audio Interface,Airbags,ParkAssist,Power Steering,Auto Start/Stop,Bluetooth Handset",
+        "body_style": "SUV",
+        "engine": "2200",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "QKGC87456",
+        "mileage": 17,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2022-12-11T15:02:49Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 10,
+    "fields": {
+        "car_title": "Bentley",
+        "state": "Haryana",
+        "city": "Delhi",
+        "color": "Black",
+        "model": "Continental GT",
+        "Year": 2015,
+        "condition": "Used",
+        "price": 9200000,
+        "description": "<p>The Continental GT range combines exquisite craftsmanship with the power to exhilarate at a moment&rsquo;s notice. The Continental GT model captures the essence of grand touring, while the Continental GT S adds sports styling and a more dynamic drive. Drivers who demand unrivalled performance and sporting luxury can choose the aptly named Continental GT Speed. Those who prioritise comfort and wellbeing can opt for the elegant Continental GT Azure, while for the ultimate grand touring experience, there is the truly wondrous Continental GT Mulliner.</p>\r\n\r\n<p>Whichever model you choose, expect enough room for four adults to travel in comfort and style, coupled with generous luggage capacity. Built for the open road, this is a GT car like no other.<br />\r\nThe Continental GT is built for effortless acceleration and a truly thrilling drive. Choose from two powerful, twin-turbocharged petrol engines: a 4.0 litre V8 or a 6.0 litre W12. Models fitted with the V8 engine deliver 542 bhp, resulting in acceleration from zero to 60 mph in 3.9 seconds and a top speed of 198 mph. The W12 engine takes performance to the next level: 650 bhp, taking you to 60 mph in just 3.5 seconds and on to an incredible top speed of 208 mph.</p>",
+        "car_photo": "photos/2022/12/11/Screenshot_2022-12-11_at_8.33.50_PM.png",
+        "car_photo_1": "photos/2022/12/11/Screenshot_2022-12-11_at_8.34.11_PM.png",
+        "car_photo_2": "photos/2022/12/11/Screenshot_2022-12-11_at_8.34.35_PM.png",
+        "car_photo_3": "photos/2022/12/11/Screenshot_2022-12-11_at_8.34.47_PM.png",
+        "car_photo_4": "photos/2022/12/11/Screenshot_2022-12-11_at_8.34.22_PM.png",
+        "features": "Cruise Control,Audio Interface,Airbags,Air Conditioning,Seat Heating,Auto Start/Stop",
+        "body_style": "Coupe",
+        "engine": "3200",
+        "transmission": "Automatic",
+        "interior": "Maroon",
+        "miles": 31000,
+        "doors": "2",
+        "passengers": 4,
+        "vin_no": "ZZZ93238",
+        "mileage": 9,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2022-12-11T15:09:32Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 11,
+    "fields": {
+        "car_title": "Land Rover",
+        "state": "Haryana",
+        "city": "Delhi",
+        "color": "White",
+        "model": "Autobiography LWB",
+        "Year": 2019,
+        "condition": "Mint",
+        "price": 6700000,
+        "description": "<p>The new Range Rover was introduced in India on 11 July, 2022.</p>\r\n\r\n<p><strong>Engine and specification:</strong></p>\r\n\r\n<p>Under the hood, the new Range Rover is available with a 3.0-litre petrol engine, a 3.0-litre diesel engine, and a 4.4-litre twin-turbo V8 petrol engine. The 3.0-litre petrol unit delivers 394bhp and 550Nm of torque, while the 3.0-litre diesel motor produces 346bhp and 700Nm of torque. Meanwhile, the 4.4-litre petrol motor produces 523bhp and 750Nm of torque.</p>\r\n\r\n<p><strong>Exterior design:</strong></p>\r\n\r\n<p>Exterior highlights of the 2022 Range Rover include tweaked front and rear bumpers, a new air dam, a set of new dual-tone alloy wheels, and a dark panel that joins the tail lights and both ends. A few other notable features include LED headlamps, flush-fitting door handles, a dual-tone paintjob, blacked-out pillars, and black ORVMs.</p>\r\n\r\n<p><strong>Interior and features:</strong></p>\r\n\r\n<p>Inside, the new Range Rover comes equipped with a new 13.1-inch curved touchscreen infotainment system, a 13.7-inch fully-digital instrument console, Alexa voice assistant, electronic air suspension, four-wheel steering, a&nbsp;<a href=\"https://www.carwale.com/jeep-cars/meridian/\" title=\"Meridian\">Meridian</a>-sourced, 1,600 watt, 35-speaker surround sound music system, and active anti-roll bars.</p>\r\n\r\n<p><strong>Colours:</strong></p>\r\n\r\n<p>The new Range Rover is offered in eight colours including Fuji White, Santorini Black, Eiger Grey,&nbsp;<a href=\"https://www.carwale.com/ferrari-cars/portofino/\" title=\"Portofino\">Portofino</a>&nbsp;Blue, Lantau Bronze, Hakuba Silver, Belgravia Green, and Ostuni Pearl.</p>",
+        "car_photo": "photos/2022/12/11/Screenshot_2022-12-11_at_8.41.17_PM.png",
+        "car_photo_1": "photos/2022/12/11/Screenshot_2022-12-11_at_8.41.57_PM.png",
+        "car_photo_2": "photos/2022/12/11/Screenshot_2022-12-11_at_8.41.49_PM.png",
+        "car_photo_3": "photos/2022/12/11/Screenshot_2022-12-11_at_8.41.27_PM.png",
+        "car_photo_4": "photos/2022/12/11/Screenshot_2022-12-11_at_8.42.07_PM.png",
+        "features": "Airbags,Air Conditioning,Seat Heating,ParkAssist,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "3500",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 25000,
+        "doors": "4",
+        "passengers": 5,
+        "vin_no": "TGB3985",
+        "mileage": 12,
+        "fuel_type": "Diesel",
+        "no_of_owners": "2",
+        "is_featured": false,
+        "created_date": "2022-12-11T15:16:13Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 1,
+    "fields": {
+        "first_name": "Akash",
+        "last_name": "Kawale",
+        "designation": "Founding member",
+        "photo": "photos/2022/09/29/akash.jpeg",
+        "facebook_link": "www.facebook.com",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "https://www.linkedin.com/in/akashkawale/",
+        "created_date": "2022-12-11T13:59:57.414Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Vishal",
+        "last_name": "Yadav",
+        "designation": "Trader Analyst",
+        "photo": "photos/2022/09/29/vishal.jpeg",
+        "facebook_link": "www.facebook.com",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "www.linkedIn.com",
+        "created_date": "2022-12-11T11:56:32.380Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Rishikesh",
+        "last_name": "Mahajan",
+        "designation": "Product Manager",
+        "photo": "photos/2022/09/29/rishi.jpeg",
+        "facebook_link": "www.facebook.com",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "www.linkedIn.com",
+        "created_date": "2022-09-29T23:43:06.445Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Dinesh",
+        "last_name": "Bist",
+        "designation": "Support Manager",
+        "photo": "photos/2022/09/29/monty.jpeg",
+        "facebook_link": "www.facebook.com",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "www.linkedin.com",
+        "created_date": "2022-09-29T23:45:18.078Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "Ritesh",
+        "last_name": "Singh",
+        "designation": "Founding Member",
+        "photo": "photos/2022/09/30/ritesh.jpeg",
+        "facebook_link": "www.facebook.com",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "www.linkedin.com",
+        "created_date": "2022-12-11T11:56:02.704Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Cox",
+        "designation": "SOCIAL MEDIA MANAGER",
+        "photo": "photos/2022/12/11/avatar-12.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "https://www.twitter.com/",
+        "LinkedIn_link": "https://www.linkedin.com/",
+        "created_date": "2022-12-11T13:55:43.999Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 7,
+    "fields": {
+        "first_name": "Nicole",
+        "last_name": "Ward",
+        "designation": "SEO CONSULTANT",
+        "photo": "photos/2022/12/11/avatar-2.jpg",
+        "facebook_link": "https://www.facebook.com/",
+        "twitter_link": "www.twitter.com",
+        "LinkedIn_link": "www.linkedin.com",
+        "created_date": "2022-12-11T13:59:22.640Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 2,
+    "fields": {
+        "first_name": "neelam",
+        "last_name": "kawale",
+        "car_id": 4,
+        "customer_need": "I'd like to know your best price for this",
+        "car_title": "Jaguar XE",
+        "city": "kochi",
+        "state": "Kerela",
+        "email": "neelam@gmail.com",
+        "phone": "7736307937",
+        "message": "nice car",
+        "user_id": 1,
+        "create_date": "2022-12-08T14:32:27.474Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 3,
+    "fields": {
+        "first_name": "suraj",
+        "last_name": "k",
+        "car_id": 5,
+        "customer_need": "I'd like a history report for this",
+        "car_title": "BMW 220i",
+        "city": "Ahmedabad",
+        "state": "Gujrat",
+        "email": "suraj@gmail.com",
+        "phone": "7894564567",
+        "message": "nice car",
+        "user_id": 0,
+        "create_date": "2022-12-08T14:36:13.848Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 4,
+    "fields": {
+        "first_name": "Akash",
+        "last_name": "Kawale",
+        "car_id": 2,
+        "customer_need": "I'm interested in this",
+        "car_title": "Ford Edge",
+        "city": "panvel",
+        "state": "MH",
+        "email": "akashkawale2@gmail.com",
+        "phone": "",
+        "message": "",
+        "user_id": 1,
+        "create_date": "2022-12-09T16:44:21.618Z"
+    }
+},
+{
+    "model": "contacts.contact",
+    "pk": 5,
+    "fields": {
+        "first_name": "Akash",
+        "last_name": "Kawale",
+        "car_id": 3,
+        "customer_need": "I'm interested in this",
+        "car_title": "Audi A3",
+        "city": "ranip",
+        "state": "gujrat",
+        "email": "akashkawale2@gmail.com",
+        "phone": "",
+        "message": "John cena",
+        "user_id": 1,
+        "create_date": "2022-12-11T11:44:18.374Z"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$xz5RCsADMFWxpDSaxkW2yq$SQig68KRRfi4honfomxWDDnD7l1c4exDMMsX6HOi/G0=",
+        "last_login": "2022-12-11T14:25:37.480Z",
+        "is_superuser": true,
+        "username": "akashkawale",
+        "first_name": "Akash",
+        "last_name": "Kawale",
+        "email": "akashkawale2@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-09-23T12:50:51Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$390000$Nmua24yJUjOGk4FyDrZ36l$gVbC0b5Fk3D8YKTTcJc9UM764LRwLtmbCb17KGx4H/A=",
+        "last_login": "2022-12-06T23:37:51.026Z",
+        "is_superuser": false,
+        "username": "surajkawale",
+        "first_name": "Suraj ",
+        "last_name": "Kawale",
+        "email": "surajkawale2@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-06T23:37:50.743Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!jYkxej1OB22i6IYRuMXCHpy0WNnzgNSizOjplrmF",
+        "last_login": "2022-12-07T23:30:46.741Z",
+        "is_superuser": false,
+        "username": "aak",
+        "first_name": "Aak",
+        "last_name": "K",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-07T23:15:08.256Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "!UsozpfsdT0SiZ6Dz8RJZTrqwofT7FThQbexO2rMW",
+        "last_login": "2022-12-07T23:31:28.586Z",
+        "is_superuser": false,
+        "username": "akash",
+        "first_name": "Akash",
+        "last_name": "Kawale",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2022-12-07T23:29:38.416Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "2y9dgz24y42vq6qof6oyxapszkxd8871",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pCBlg64dO8ZCAyDVA0kpV0Z765NutDtf-_9l_BhW4vfOi9-TuIslDj9bjHQg-sO0j3UW5PU6rrMUe6KPGiX15b4eTncv4MSevnWkLVDhclqnbPVlmGIEwaKyiIB2siDM5BHpUbHiUxGchkcKJwMD0Ti_QHPEzeF:1obiAs:PelkG6L-InUWAVCBPA3nachLdkNGCtSvg2Fl0o7UWXQ",
+        "expire_date": "2022-10-07T12:52:58.756Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "8j9gq2s81n6cqa6zcbd17gs1jzj7j5se",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pCBlg64dO8ZCAyDVA0kpV0Z765NutDtf-_9l_BhW4vfOi9-TuIslDj9bjHQg-sO0j3UW5PU6rrMUe6KPGiX15b4eTncv4MSevnWkLVDhclqnbPVlmGIEwaKyiIB2siDM5BHpUbHiUxGchkcKJwMD0Ti_QHPEzeF:1ohATd:zqhCjUiR0zhe1U4ncG5trEKSvnQSsIijqU_5RiO-L7o",
+        "expire_date": "2022-10-22T14:06:53.019Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "bd47sitp5ygwyy3f6wc262ovbplmo1te",
+    "fields": {
+        "session_data": ".eJxVjEEOgyAQRe8y64YIQZEuu-8ZyMAMxbaBRHRlevdi4kK3_733N3C4LsmtlWc3EdxBwu28eQwfzjugN-ZXEaHkZZ682BVx0Cqehfj7ONzLQcKaWt0pyVqN2vY0SI6RWDN5NKPGXoaBgvbGNAOVkR2z52gpWmUasa2I8PsD9q040Q:1p4NGr:CBa1L8e1tdNO9IbJwpODOdOaJIH89Zq8M4GCfFcCrUM",
+        "expire_date": "2022-12-25T14:25:37.482Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "d2h1m3quozu27j3ab62cp9fwe1gb1vgm",
+    "fields": {
+        "session_data": ".eJxVzMFqwzAMgOF30TmEOrh101sLYz1ssMvYYYwgS3KTNrWD7cCg9N3njF56E_o_6QYp0IAjEoXZ5y5lzAK77xtMMZCkBDsYw2nwUEGiMJUGZcQ5992EEa8LgHsFn7_88mU_4vFt_wo_FXT_ZE4Su4GLUfC0s0gX8UvgM_pTqCn4HAdbL6R-1FS_B5bx8LBPD3pMfbleNUp0s9XtmjdKnGPRwhbNVuNa0YZJW2OKwMaolYgV17JrG1NKWy4c3P8AxQdV9Q:1p3gRX:FJisKW6gidu0XN4hc2kY2Lm9VXVWWaY5i8SOEqCd27o",
+        "expire_date": "2022-12-23T16:41:47.854Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "fqcw4hd691o19adhly8a8ox68m7fyh48",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGln4jynpOYO1613jALKlOKkQd4dIKaB9M_NeIsG61LQOntNE4iyUOPxuCPnBbQN0h3brMve2zBPKTZE7HfLaiZ-X3f07qDDqt3a5xBiiZvYWjlEV463xmckhErKxDpQ9GQ_axILBkGNdMGYXskUqRbw_7Fo4pw:1ov2rQ:jTNa-rK88RW8NQ3Z3-VLBTcQzYa67eN_N4ow8vpF5NU",
+        "expire_date": "2022-11-29T20:48:48.732Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 1,
+    "fields": {
+        "provider": "facebook",
+        "name": "Facebook Login",
+        "client_id": "548408173428671",
+        "secret": "05dbc6f3d6d2208828297e27f8146226",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialapp",
+    "pk": 2,
+    "fields": {
+        "provider": "google",
+        "name": "Google Login",
+        "client_id": "968189662777-2elbfa8s46crb65l8i0jjc2tojvefhem.apps.googleusercontent.com",
+        "secret": "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",
+        "key": "",
+        "sites": [
+            [
+                "localhost:8000"
+            ]
+        ]
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "aak"
+        ],
+        "provider": "facebook",
+        "uid": "8335327513205912",
+        "last_login": "2022-12-07T23:30:46.731Z",
+        "date_joined": "2022-12-07T23:15:08.270Z",
+        "extra_data": "{\"id\": \"8335327513205912\", \"name\": \"Aak Ash K\", \"first_name\": \"Aak\", \"last_name\": \"K\"}"
+    }
+},
+{
+    "model": "socialaccount.socialaccount",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "akash"
+        ],
+        "provider": "google",
+        "uid": "104840786735752687909",
+        "last_login": "2022-12-07T23:31:28.579Z",
+        "date_joined": "2022-12-07T23:29:38.425Z",
+        "extra_data": "{\"id\": \"104840786735752687909\", \"name\": \"Akash Kawale\", \"given_name\": \"Akash\", \"family_name\": \"Kawale\", \"picture\": \"https://lh3.googleusercontent.com/a/AEdFTp6RodWMV0SSQqlye6H_J4XJ3b2wvroGrt2b8lC81Z0=s96-c\", \"locale\": \"en\"}"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-09-23T12:53:33.756Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "auth",
+            "user"
+        ],
+        "object_id": "1",
+        "object_repr": "akashkawale",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-09-29T23:40:21.850Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Akash",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-09-29T23:41:44.767Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Vishal",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-09-29T23:43:06.448Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "3",
+        "object_repr": "Rishikesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-09-29T23:44:07.397Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Dinesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-09-29T23:45:06.020Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Ritesh",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-09-29T23:45:18.083Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "4",
+        "object_repr": "Dinesh",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-09-29T23:45:29.709Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Akash",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-09-30T00:09:27.882Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Vishal",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-09-30T09:14:31.154Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Ritesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-10-04T22:42:58.540Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-10-05T10:23:07.962Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-10-09T16:06:56.717Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Audi A3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-10-09T16:17:22.356Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Jaguar XE",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-10-10T19:03:07.485Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW 220i",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-10-10T19:28:18.231Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Jaguar F-Pace",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-10-11T12:27:42.695Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW 220i",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-10-11T12:27:42.707Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Jaguar XE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-10-11T13:13:05.363Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Jaguar F-Pace",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-10-11T13:13:14.568Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "5",
+        "object_repr": "BMW 220i",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-10-11T13:13:29.033Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "4",
+        "object_repr": "Jaguar XE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-10-11T13:13:37.570Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "3",
+        "object_repr": "Audi A3",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-10-11T13:13:47.494Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "2",
+        "object_repr": "Ford Edge",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-10-11T13:14:03.219Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "1",
+        "object_repr": "Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"State\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-10-11T16:42:04.846Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "6",
+        "object_repr": "Jaguar F-Pace",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-12-07T23:05:42.866Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "1",
+        "object_repr": "Facebook Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-12-07T23:06:32.955Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "sites",
+            "site"
+        ],
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-12-07T23:26:23.811Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "socialaccount",
+            "socialapp"
+        ],
+        "object_id": "2",
+        "object_repr": "Google Login",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-12-11T11:56:02.708Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "5",
+        "object_repr": "Ritesh",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-12-11T11:56:32.382Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "2",
+        "object_repr": "Vishal",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-12-11T11:57:00.974Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Akash",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Designation\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-12-11T13:55:44.007Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "6",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-12-11T13:59:22.646Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "7",
+        "object_repr": "Nicole",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-12-11T13:59:57.415Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "pages",
+            "team"
+        ],
+        "object_id": "1",
+        "object_repr": "Akash",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-12-11T14:50:37.234Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "7",
+        "object_repr": "Ford Endeavour",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-12-11T14:56:16.785Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "8",
+        "object_repr": "Mercedes-Benz",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-12-11T15:02:52.137Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "9",
+        "object_repr": "Jeep Compass",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-12-11T15:09:36.366Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "10",
+        "object_repr": "Bentley",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-12-11T15:16:15.921Z",
+        "user": [
+            "akashkawale"
+        ],
+        "content_type": [
+            "cars",
+            "car"
+        ],
+        "object_id": "11",
+        "object_repr": "Land Rover",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]

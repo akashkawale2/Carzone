@@ -464,6 +464,7 @@ $(function () {
     });
 });
 
+
 // mCustomScrollbar initialization
 (function ($) {
     $(window).resize(function () {
@@ -479,3 +480,8 @@ $(function () {
         }
     }).trigger("resize");
 })(jQuery);
+
+//messages
+setTimeout(function(){
+    $('#message').fadeOut('slow');
+}, 4000)
