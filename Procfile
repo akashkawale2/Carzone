@@ -1,2 +1,1 @@
-release: python3 manage.py migrate
-web: gunicorn carzone.wsgi
+web: gunicorn carzone.wsgi --log-file -
