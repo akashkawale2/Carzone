@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-uw$&(gt*&h7gzxoa*0)0+v5@0((k@mu!l7cf&@)_ot-z=dx!2q
 
 DEBUG = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["web-production-9c19.up.railway.app"]
 
 LOGIN_REDIRECT_URL = 'dashboard'
 
